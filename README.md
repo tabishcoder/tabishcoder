@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm **Tabish Akhtar**
 
-*Fresh Grad | Full-Stack Developer | DSA Enthusiast | Tea & Coffee Addict*
+*Fresh Grad | Full-Stack Developer *
 
 Welcome to my GitHub! I'm a passionate full-stack developer specializing in the **MERN stack**, currently preparing for interviews while building real-world solutions and mastering Data Structures & Algorithms daily. I believe in clean code, performance optimization, and solving meaningful engineering problems.
 
