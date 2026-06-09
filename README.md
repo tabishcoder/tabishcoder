@@ -1,157 +1,115 @@
-# Hey there! 👋 I'm **Tabish Akhtar**
+# 👋 Hi, I'm Tabish Akhtar
 
-*Fresh Grad | Full-Stack Developer*
+### Full-Stack Developer | MERN Stack | Computer Science @ UET Lahore
 
-Welcome to my GitHub! I'm a passionate full-stack developer specializing in the **MERN stack**, currently preparing for interviews while building real-world solutions and mastering Data Structures & Algorithms daily. I believe in clean code, performance optimization, and solving meaningful engineering problems.
+Building scalable web applications, REST APIs, and modern full-stack products.
 
----
-
-## 🎯 About Me
-
-🎓 **Fresh Graduate** from UET Lahore (BS Computer Science, 2022–2026)
-
-💻 **Specialization:** Full-Stack Web Development (MERN Stack)
-
-🔍 **Currently:** Interview prep + Daily DSA practice + Revising core concepts
-
-📚 **Learning Style:** Tech books, productivity blogs, and hands-on coding
-
-🌿 **Fun Facts:** Tea & coffee lover ☕🍵 | Code debugger by passion | Nature enthusiast | Reader of tech & productivity books
+🌐 **Portfolio:** https://tabis-h.vercel.app
+💼 **LinkedIn:** https://linkedin.com/in/tabishcoder
+📧 **Email:** [tabishakhtar.dev@gmail.com](mailto:tabishakhtar.dev@gmail.com)
 
 ---
 
-## 💼 Professional Experience
+## 🚀 Current Focus
 
-### **Frontend Developer Intern** | StericTech *(Feb 2025 – Apr 2025)*
-- Developed dashboard modules for **CattleCare** livestock management platform
-- Built features for breeding workflows, health tracking, lifecycle events, and protocol monitoring
-- Integrated REST APIs with authentication, efficient data handling, and robust error management
-
-### **Freelance Full-Stack Developer** | Remote *(Sep 2024 – Present)*
-- Worked with local and international clients on full-stack web applications
-- Built production-ready MERN applications and automation solutions
-- Performed large-scale web scraping across 20+ websites
+* Building production-ready MERN applications
+* Mastering Data Structures & Algorithms
+* Strengthening SQL, DBMS, OOP, and System Design fundamentals
+* Preparing for Software Engineer and Full-Stack Developer roles
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** JavaScript | Python | SQL | C#
+### Languages
 
-**Frontend:** React.js | Next.js | TypeScript | Tailwind CSS | Figma
+`JavaScript` `TypeScript` `Python` `SQL` `C#`
 
-**Backend:** Node.js | Express.js | REST APIs | MVC Architecture
+### Frontend
 
-**Databases:** MongoDB | MySQL
+`React.js` `Next.js` `Redux Toolkit` `Tailwind CSS`
 
-**Deployment & DevOps:** Vercel | Microsoft Azure | GitHub Actions (CI/CD)
+### Backend
 
-**Tools:** Git | Postman | Docker (learning)
+`Node.js` `Express.js` `REST APIs` `Authentication` `Authorization` `MVC`
 
-**Soft Skills:** Problem-Solving | Teamwork | Adaptability | Fast Learning
+### Databases
 
----
+`MongoDB` `MySQL`
 
-## 🚀 Featured Projects
+### Tools & Cloud
 
-### **[Ghar Kaa Khana](https://gharkaakhana.live)** – Food Delivery Platform
-*MERN Stack | Production-Ready | 130+ Active Users*
-
-A full-featured food delivery platform built from scratch:
-- 🏘️ Area-based ordering system with real-time tracking
-- 👨‍💼 Comprehensive admin dashboard for restaurant management
-- 🔐 Secure authentication & role-based access control
-- 💳 Discount system, order lifecycle management, and Excel-based tracking
-- 📦 Deployed on Vercel, Azure, and MongoDB Atlas
-
-**Technologies:** React.js, Node.js, Express, MongoDB, Tailwind CSS
+`Git` `GitHub` `Postman` `CI/CD` `Azure` `Vercel`
 
 ---
 
-### **[Collabrix](https://collabrix.me)** – AI-Powered Project Management Platform
-*MERN Stack | Collaborative Tools | Productivity Focus*
+## ⭐ Featured Projects
 
-A secure, feature-rich project management solution:
-- 🔐 Secure authentication & role-based access control
-- 📋 Collaborative project boards with real-time updates
-- ✅ Task workflows and productivity management features
-- 🤝 Team collaboration capabilities
+### 🍽️ Ghar Kaa Khana
 
-**Technologies:** React.js, Node.js, Express, MongoDB, Tailwind CSS
+Production-ready food delivery platform built for a local business.
 
----
+**Highlights**
 
-### **ResumeAI** – AI Resume Analyzer
-*MERN + Flask | AI/ML Integration*
+* 130+ active users
+* JWT Authentication & OTP Verification
+* Role-Based Access Control (RBAC)
+* Order, Coupon, Review & Delivery Management
+* Deployed on Azure & Vercel
 
-An intelligent platform for resume optimization:
-- 🤖 AI-powered resume parsing and analysis
-- 📊 ATS scoring and job-fit analysis
-- 📈 Interactive analytics dashboard
-- 💡 Independently implemented end-to-end system
-
-**Technologies:** React.js, Node.js, Flask, MongoDB, Python
+🔗 Live Demo: https://gharkaakhana.live
 
 ---
 
-## 📚 Education
+### 🤝 Collabrix
 
-**BS Computer Science** | UET Lahore *(2022–2026)*
+Team collaboration and project management platform.
 
-**Relevant Coursework:** Data Structures, Object-Oriented Programming, DBMS, Software Engineering, Cloud Computing
+**Highlights**
 
----
+* Authentication & Refresh Token Workflows
+* Workspaces & Kanban Boards
+* Task Management & Member Invitations
+* Role-Based Access Control
+* Dark/Light Mode Support
 
-## 🎓 Currently Learning & Preparing
-
-- 📖 **DSA Problems:** Daily practice for interview readiness
-- 🏗️ **System Design:** Scalable architecture patterns
-- ☁️ **Cloud Architecture:** Advanced deployment strategies
-- 🔄 **Core Concepts:** Revisiting OOP, database optimization, API design
-- 📚 **Resources:** Tech books, productivity blogs, and LeetCode
+🔗 Live Demo: https://collabrix.me
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Experience
 
-![Tabish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tabishcoder&theme=tokyonight&hide_border=true&show_icons=true&count_private=true)
+### Frontend Developer Intern — StericTech
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tabishcoder&theme=tokyonight&hide_border=true&layout=compact)
+* Developed React.js & TypeScript dashboard modules
+* Integrated REST APIs and validated responses using Postman
+* Resolved frontend-backend data mapping issues
+* Collaborated with developers to debug and maintain code quality
 
----
+### Freelance Full-Stack Developer
 
-## 🌐 Let's Connect!
-
-I'd love to chat about web development, DSA problems, tech books, or just grab a virtual coffee! ☕
-
-📧 **Email:** [tabishakhtar.dev@gmail.com](mailto:tabishakhtar.dev@gmail.com)
-
-💼 **LinkedIn:** [linkedin.com/in/tabishcoder](https://linkedin.com/in/tabishcoder)
-
-🌍 **Portfolio:** [tabishakhtar.com](https://tabishakhtar.com)
-
-📱 **Phone:** +92 309 6358926
+* Delivered web development solutions for clients
+* Developed a MERN-based food delivery platform
+* Built React.js/Next.js pages from Figma designs
+* Automated data scraping across 20+ websites using Python & Selenium
 
 ---
 
-## 💭 Philosophy
+## 📜 Certifications
 
-> *"Clean code is readable code. Readable code is maintainable code. Maintainable code scales."*
-
-I believe in writing code that not only works but is a pleasure to read and maintain. Every line should serve a purpose, and every problem has an elegant solution waiting to be discovered.
-
----
-
-## ✨ Fun Fact
-
-When I'm not debugging code or grinding LeetCode problems, you'll find me:
-- ☕ Brewing the perfect cup of coffee or tea
-- 🌿 Exploring nature and its beauty
-- 📖 Reading the latest tech trends and productivity hacks
-- 🎯 Preparing for my next big interview!
+* IBM Full-Stack JavaScript Developer Professional Certificate
+* Advanced SQL Certificate (HackerRank)
 
 ---
 
-**Thanks for stopping by! Feel free to explore my projects, star your favorites, and reach out for collaboration.** 🚀
+## 📈 GitHub Stats
 
-*Last updated: June 2026*
+<!-- GitHub Stats Card -->
+
+<!-- Add your preferred GitHub stats widgets here -->
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy turning ideas into real products while continuously improving my engineering fundamentals.
