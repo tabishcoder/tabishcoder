@@ -4,7 +4,7 @@
 
 Building scalable web applications, REST APIs, and modern full-stack products.
 
-🌐 **Portfolio:** https://tabis-h.vercel.app
+🌐 **Portfolio:** https://tabishdev.vercel.app
 💼 **LinkedIn:** https://linkedin.com/in/tabishcoder
 📧 **Email:** [tabishakhtar.dev@gmail.com](mailto:tabishakhtar.dev@gmail.com)
 
